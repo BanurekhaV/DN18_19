@@ -1,2 +1,4 @@
 This is a sample file to learn Git
 Adding second line
+
+Reviewd the file. Seems to be OK
